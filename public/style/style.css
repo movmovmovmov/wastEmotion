@@ -1,0 +1,9 @@
+body {
+    align-items: center;
+    background-color: #f6f6f6;
+    display: flex;
+    font-family: Nanum Pen Script;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+}
